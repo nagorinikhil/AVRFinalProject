@@ -15,6 +15,8 @@ How to open in Unity:
 
 Module Description:
 ======================================================================================
+***********************Note: Please ignore .meta files *****************************
+
 Object Assest Files: 	
 	Assets/LeapMotionModule/Ball.prefab
 	Assets/LeapMotionModule/RingBoard.prefab
